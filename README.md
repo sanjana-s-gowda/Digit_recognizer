@@ -4,3 +4,5 @@ The digit recognizer  project using the MNIST dataset and machine learning conce
 Project output
 
 ![image](https://github.com/user-attachments/assets/5b7acfc1-66b7-4d91-a068-97909fe913a7)
+
+![image](https://github.com/user-attachments/assets/a8a0dc97-f737-443f-8238-fbf11d040fea)
